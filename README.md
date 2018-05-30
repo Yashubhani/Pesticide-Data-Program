@@ -1,6 +1,6 @@
 # Pesticide Data Program
 
-![2015-detections](https://user-images.githubusercontent.com/39716074/40748214-941fa490-6414-11e8-96a5-647be42a113e.jpg)
+![dashboard](https://user-images.githubusercontent.com/39716074/40748590-c735081a-6415-11e8-9219-8e12ab3296f2.png)
 
 Recently, increased attention has been focused on chemical residues in food. The presence of minute residues of pesticides in food has caused some people to ask, “Is our food supply safe?” 
 
